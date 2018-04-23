@@ -17,7 +17,7 @@
 ./licenses.html
 ./apply.html
 ./404.html
-./mailthanks.html
+./mailthanks/index.html
 ./sitemap.html
 ./team/index.html
 ./donate.html
